@@ -1,3 +1,2 @@
 DOMAIN-SUFFIX,chanlichertt.top,♻️ 自动选择
 IP-CIDR,38.147.173.97/32,Direct
-SRC-IP-CIDR,38.147.173.97/32,Direct
