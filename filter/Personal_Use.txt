@@ -1,2 +1,5 @@
-DOMAIN-SUFFIX,chanlichertt.top,♻️ 自动选择
-IP-CIDR,38.147.173.97/32,Direct
+DOMAIN-KEYWORD,wechat,♻️ 自动选择
+DOMAIN-KEYWORD,weixin,♻️ 自动选择
+DOMAIN-KEYWORD,qq,♻️ 自动选择
+DOMAIN-SUFFIX,qpic.cn,♻️ 自动选择
+DOMAIN-SUFFIX,qlogo.cn,♻️ 自动选择
