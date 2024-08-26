@@ -5,5 +5,5 @@ DOMAIN-KEYWORD,qq,香港节点
 DOMAIN-KEYWORD,wx,香港节点
 DOMAIN-KEYWORD,qpic,香港节点
 DOMAIN-KEYWORD,qlogo,香港节点
-DOMAIN,49.51.15.97,香港节点
+
 DOMAIN-KEYWORD,hsex,自动选择
