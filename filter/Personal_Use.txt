@@ -1,7 +1,9 @@
 DOMAIN-KEYWORD,wechat,香港节点
 DOMAIN-KEYWORD,weixin,香港节点
+DOMAIN-KEYWORD,servicewechat,香港节点
 DOMAIN-KEYWORD,qq,香港节点
 DOMAIN-KEYWORD,wx,香港节点
 DOMAIN-KEYWORD,qpic,香港节点
 DOMAIN-KEYWORD,qlogo,香港节点
+DOMAIN,::ffff:49.51.15.97,香港节点
 DOMAIN-KEYWORD,hsex,自动选择
