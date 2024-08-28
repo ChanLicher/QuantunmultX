@@ -6,4 +6,7 @@ DOMAIN-KEYWORD,wx,香港节点
 DOMAIN-KEYWORD,qpic,香港节点
 DOMAIN-KEYWORD,qlogo,香港节点
 DOMAIN,49.51.15.97,香港节点
-DOMAIN-KEYWORD,hsex,自动选择
+DOMAIN-KEYWORD,gtimg,香港节点
+DOMAIN-KEYWORD,myapp,香港节点
+DOMAIN-KEYWORD,tencentmusic,香港节点
+DOMAIN-KEYWORD,myqcloud,香港节点
