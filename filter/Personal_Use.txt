@@ -10,4 +10,4 @@ DOMAIN-KEYWORD,gtimg,香港节点
 DOMAIN-KEYWORD,myapp,香港节点
 DOMAIN-KEYWORD,tencentmusic,香港节点
 DOMAIN-KEYWORD,myqcloud,香港节点
-DOMAIN-KEYWORD,hsex,香港节点
+DOMAIN-KEYWORD,hsex,自动选择
